@@ -1,0 +1,8 @@
+name: ColorPlots
+version: '${project.version}'
+main: me.color.plots.Main
+
+
+commands:
+  plot:
+    description: ""
